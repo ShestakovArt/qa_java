@@ -4,8 +4,6 @@ import java.util.HashMap;
 
 public class LeoAlex extends Lion{
 
-    Feline feline;
-
     public LeoAlex(Feline feline) throws Exception {
         super(feline, "Самец");
     }
